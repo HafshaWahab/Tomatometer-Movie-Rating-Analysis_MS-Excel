@@ -3,6 +3,7 @@
 
 ## Background
 The analysis of an extensive dataset of 15,000+ movies reviewed by Rotten Tomatoes aims to provide insights into the film industry. By examining film details, ratings, genres, directors, cast, and audience feedback, the report aims to inform decisions related to film production, marketing, and distribution. Key areas of focus include understanding the distribution of films by rating and primary genre, exploring discrepancies between audience and critic ratings, and leveraging success strategies from high-performing studios.
+
 [Click to view Excel sheet ](https://docs.google.com/spreadsheets/d/1TqGO7pXLDYJSxr03_mpY4c-vxupitEPz/edit?usp=sharing&ouid=109779457375608206546&rtpof=true&sd=true)
 
 ## Goals & KPIs
